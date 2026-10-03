@@ -1,0 +1,2 @@
+# premium-zt-micro-001-microsegmentation-design-templ
+You're implementing zero-trust architecture but your microsegmentation strategy is scattered across spreadsheets and Slack threads. The Microsegmentation Design Template gives you a structured, visual framework to map trust boundaries, define segmentation rules, and document your entire architecture in one place.  Stop guessing about your network s
